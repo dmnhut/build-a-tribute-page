@@ -1,0 +1,34 @@
+.Lobster {
+  font-family: Lobster;
+}
+
+.block-blue {
+  background-color: #537eb8;
+  width: 200px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.block-blue:hover {
+  background-color: #3f73b8;
+}
+
+a:link, a:visited {
+  color: none;
+  text-decoration: none;
+  cursor: auto;
+}
+
+.size32 {
+  font-size: 32px;
+}
+
+.mg-top {
+  margin-top: 2%;
+}
+
+body {
+  font-family: monospace;
+  font-size: 18px;
+  font-style: italic;
+}
